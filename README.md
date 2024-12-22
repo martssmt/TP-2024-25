@@ -22,8 +22,8 @@ Proyecto desarrollado como parte de la asignatura **Taller de Programación** en
 - **IntelliJ IDEA**: IDE recomendado.
 
 ## Autores:
-- **martssmt**
-- **tomastte**
+- **[tomastte_](https://github.com/tomastte)**
+- **[martssmt](https://github.com/martssmt)**
 
 ## Notas:
 1. El archivo contiene los detalles esenciales para ejecutar y entender el proyecto.
